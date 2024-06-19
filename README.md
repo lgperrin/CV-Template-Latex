@@ -9,6 +9,10 @@ In order to use this template you must download this repository in .zip format a
 1. In Overleaf, click on Create Project > Upload .zip file.
 2. If you want to work from your local machine, you can use Visual Studio, in which case, you must unzip the .zip file containing this repository and then open the final folder in Visual Studio.
 
+This is how it should look like your tree directory either in Overleaf or Visual Studio:
+
+![alt text](https://github.com/lgperrin/CV-Template-Latex/blob/main/Overleaf-Tree-Directory.png)
+
 ## Preview
 
 The CV or resume looks like:
