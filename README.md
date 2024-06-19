@@ -5,7 +5,7 @@ In this repository you can find a Latex CV or resume template created by the own
 
 The CV or resume looks like:
 
-![alt text](https://github.com/lgperrin/CV-Template-Latex/blob/main/General%20Overview.png](https://github.com/lgperrin/CV-Template-Latex/blob/main/CV-General-Overview.png)
+![alt text](https://github.com/lgperrin/CV-Template-Latex/blob/main/CV-General-Overview.png)
 
 - [x] It's a single-page and one-column file.
 - [x] You can add as many sections as you want or need.
