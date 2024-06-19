@@ -4,10 +4,10 @@ In this repository you can find a Latex CV or resume template created by the own
 
 ## How it works
 
-In order to use this template you must download this repository in .zip format and then download it:
+In order to use this template you must download this repository in .zip format and then you can follow two ways:
 
-A. In Overleaf, click on Create Project > Upload .zip file.
-B. If you want to work from your local machine, you can use Visual Studio, in which case, you must unzip the .zip file containing this repository and finally open the final folder in Visual Studio.
+1. In Overleaf, click on Create Project > Upload .zip file.
+2. If you want to work from your local machine, you can use Visual Studio, in which case, you must unzip the .zip file containing this repository and finally open the final folder in Visual Studio.
 
 ## Preview
 
