@@ -2,6 +2,13 @@
 In this repository you can find a Latex CV or resume template created by the owner of the account on Github.
 © Laura García Perrín
 
+## How it works
+
+In order to use this template you must download this repository in .zip format and then download it:
+
+A. In Overleaf, click on Create Project > Upload .zip file.
+B. If you want to work from your local machine, you can use Visual Studio, in which case, you must unzip the .zip file containing this repository and finally open the final folder in Visual Studio.
+
 ## Preview
 
 The CV or resume looks like:
